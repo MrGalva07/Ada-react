@@ -1,0 +1,3 @@
+nome:Luck
+idade:22
+Altura:194
