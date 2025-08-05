@@ -48,13 +48,13 @@ primeiroParagrafo.textContent = "Outra coisa"
  const novaTagLi = document.createElement('li')
  console.log(novaTagLi)
 
- novaTagLi.textContent = "Merda na travessa"
+ novaTagLi.textContent = "Li adicionado"
 
 const lista = document.querySelector('#lista')
-
+// 7 - appendchild
 lista.appendChild(novaTagLi)
 
 console.log(novaTagLi.textContent)
-
+//8 - removeChild
 lista.removeChild(novaTagLi)
 console.log(document.URL)
