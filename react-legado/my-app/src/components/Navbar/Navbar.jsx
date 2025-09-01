@@ -1,6 +1,6 @@
 import React from "react";
 import logoImg from "../../assets/images/planet.png"
-import "../Navbar/styles.css"
+import "./styles.css"
 
 
 class Navbar extends React.Component{
